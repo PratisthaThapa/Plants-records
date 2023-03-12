@@ -1,0 +1,15 @@
+/Users/class2025master/Projects/Records/Records/bin/Debug/net7.0/Records
+/Users/class2025master/Projects/Records/Records/bin/Debug/net7.0/Records.deps.json
+/Users/class2025master/Projects/Records/Records/bin/Debug/net7.0/Records.runtimeconfig.json
+/Users/class2025master/Projects/Records/Records/bin/Debug/net7.0/Records.dll
+/Users/class2025master/Projects/Records/Records/bin/Debug/net7.0/Records.pdb
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.csproj.AssemblyReference.cache
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.GeneratedMSBuildEditorConfig.editorconfig
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.AssemblyInfoInputs.cache
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.AssemblyInfo.cs
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.csproj.CoreCompileInputs.cache
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.dll
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/refint/Records.dll
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.pdb
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/Records.genruntimeconfig.cache
+/Users/class2025master/Projects/Records/Records/obj/Debug/net7.0/ref/Records.dll
